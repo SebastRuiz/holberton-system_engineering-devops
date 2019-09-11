@@ -1,0 +1,1 @@
+# Hi, I'm working hard on shell, basics
