@@ -1,0 +1,1 @@
+# Hi, this is my second project at Holberton and it's about shell, basics
